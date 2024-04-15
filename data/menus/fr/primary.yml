@@ -17,6 +17,10 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Modèles 3D
+  target: "/modeles-3d/"
+  kind: page
+  children: []
 - title: Vidéos
   target: "/videos/"
   kind: page
