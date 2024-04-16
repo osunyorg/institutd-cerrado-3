@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Centre d'aide
+  target: "/centre-daide/"
+  kind: page
+  children: []
 - title: Photos
   target: "/projets/"
   kind: page
@@ -13,20 +17,16 @@ items:
   target: "/videos/"
   kind: page
   children: []
+- title: Articles scientifiques
+  target: "/articles-scientifiques/"
+  kind: page
+  children: []
 - title: Équipe
   target: "/equipe/"
   kind: page
   children: []
 - title: Contact
   target: "/contactez-nous/"
-  kind: page
-  children: []
-- title: Articles scientifiques
-  target: "/articles-scientifiques/"
-  kind: page
-  children: []
-- title: Centre d'aide
-  target: "/centre-daide/"
   kind: page
   children: []
 
