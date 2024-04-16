@@ -21,4 +21,8 @@ items:
   target: "/contactez-nous/"
   kind: page
   children: []
+- title: Articles scientifiques
+  target: "/articles-scientifiques/"
+  kind: page
+  children: []
 
