@@ -25,4 +25,8 @@ items:
   target: "/articles-scientifiques/"
   kind: page
   children: []
+- title: Centre d'aide
+  target: "/centre-daide/"
+  kind: page
+  children: []
 
