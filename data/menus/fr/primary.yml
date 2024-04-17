@@ -17,6 +17,10 @@ items:
   target: "/videos/"
   kind: page
   children: []
+- title: Cordeís
+  target: "/cordeis/"
+  kind: page
+  children: []
 - title: Articles scientifiques
   target: "/articles-scientifiques/"
   kind: page
@@ -27,10 +31,6 @@ items:
   children: []
 - title: Contact
   target: "/contactez-nous/"
-  kind: page
-  children: []
-- title: Cordeís
-  target: "/cordeis/"
   kind: page
   children: []
 
