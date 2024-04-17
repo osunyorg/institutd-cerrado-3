@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Centre d'aide
-  target: "/centre-daide/"
-  kind: page
-  children: []
 - title: Photos
   target: "/photos/"
   kind: page
@@ -31,6 +27,10 @@ items:
   children: []
 - title: Contact
   target: "/contactez-nous/"
+  kind: page
+  children: []
+- title: Centre d'aide
+  target: "/centre-daide/"
   kind: page
   children: []
 
