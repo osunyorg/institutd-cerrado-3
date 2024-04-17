@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Photos
-  target: "/projets/"
+  target: "/photos/"
   kind: page
   children: []
 - title: Modèles 3D
