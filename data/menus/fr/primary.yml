@@ -29,4 +29,8 @@ items:
   target: "/contactez-nous/"
   kind: page
   children: []
+- title: Cordeís
+  target: "/cordeis/"
+  kind: page
+  children: []
 
