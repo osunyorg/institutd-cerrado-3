@@ -17,6 +17,7 @@ fr:
     events_categories: /agenda/:slug/
     projects: /photos/:year-:slug/
     projects_categories: /photos/:slug/
+    persons: /equipe/:slug/
   taxonomies:
     administrator: administrators
     author: authors
