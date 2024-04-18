@@ -33,4 +33,8 @@ items:
   target: "/centre-daide/"
   kind: page
   children: []
+- title: Accueil
+  target: ''
+  kind: blank
+  children: []
 
