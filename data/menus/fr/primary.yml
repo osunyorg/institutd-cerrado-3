@@ -29,10 +29,6 @@ items:
   target: "/equipe/"
   kind: page
   children: []
-- title: Contact
-  target: "/contactez-nous/"
-  kind: page
-  children: []
 - title: Centre d'aide
   target: "/centre-daide/"
   kind: page
