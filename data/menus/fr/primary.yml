@@ -34,7 +34,7 @@ items:
   kind: page
   children: []
 - title: Accueil
-  target: ''
-  kind: blank
+  target: "/"
+  kind: page
   children: []
 
