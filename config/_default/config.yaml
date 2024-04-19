@@ -7,3 +7,7 @@ params:
     position: hero
   search:
     active: false  
+    params:
+  logo:
+    header: "/assets/images/logo.png"
+    footer: "/assets/images/footer.png"
