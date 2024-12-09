@@ -7,11 +7,19 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      youtube: >-
-        https://www.youtube.com/@Maquinasdodiaadia-ro8us
-      facebook: >-
-        https://www.facebook.com/people/M%C3%A1quinas-do-dia-a-dia/100091829744423/
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            peopleM%C3%A1quinas-do-dia-a-dia100091829744423
+          value: >-
+            https://www.facebook.com/peopleM%C3%A1quinas-do-dia-a-dia100091829744423
+        youtube:
+          label: >-
+            Maquinasdodiaadia-ro8us
+          value: >-
+            https://www.youtube.com/@Maquinasdodiaadia-ro8us
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
