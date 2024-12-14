@@ -5,40 +5,48 @@ items:
   target: "/"
   kind: page
   children: []
+  path: "/"
   file: content/fr/_index.html
 - title: Photos
   target: "/photos-1/"
   kind: page
   children: []
+  path: "/pages/photos-1"
   file: content/fr/pages/photos-1/_index.html
 - title: Modèles 3D
   target: "/modeles-3d/"
   kind: page
   children: []
+  path: "/pages/modeles-3d"
   file: content/fr/pages/modeles-3d/_index.html
 - title: Vidéos
   target: "/videos/"
   kind: page
   children: []
+  path: "/pages/videos"
   file: content/fr/pages/videos/_index.html
 - title: Cordeís
   target: "/cordeis/"
   kind: page
   children: []
+  path: "/pages/cordeis"
   file: content/fr/pages/cordeis/_index.html
 - title: Articles scientifiques
   target: "/articles-scientifiques/"
   kind: page
   children: []
+  path: "/pages/articles-scientifiques"
   file: content/fr/pages/articles-scientifiques/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
   children: []
+  path: "/persons"
   file: content/fr/persons/_index.html
 - title: Centre d'aide
   target: "/centre-daide/"
   kind: page
   children: []
+  path: "/pages/centre-daide"
   file: content/fr/pages/centre-daide/_index.html
 
