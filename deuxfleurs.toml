@@ -14,3 +14,19 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/pelle/index.html"
+to = "/modeles-3d/pelle/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/equipe-editoriale/"
+
+[[redirects]]
+from = "/rape-a-manioc/index.html"
+to = "/modeles-3d/rape-a-manioc/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/photos/"
+
